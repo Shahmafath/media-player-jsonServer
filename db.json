@@ -1,0 +1,98 @@
+{
+  "allVideos": [
+    {
+      "id": "1",
+      "caption": "Minions | All-New Mini-Movie (HD) | Illumination",
+      "url": "https://images.moviesanywhere.com/913f00d3cac979222c7db177dead87ae/a2df1afa-57b8-48a9-bec8-4293d0097236.jpg",
+      "link": "https://www.youtube.com/embed/PjfP2tmjtQM"
+    },
+    {
+      "id": "2",
+      "caption": "BIG HERO 6 | UK Teaser Trailer | Official Disney UK",
+      "url": "https://publish.one37pm.net/wp-content/uploads/2021/08/bh6-mobile.jpg?resize=720%2C780",
+      "link": "https://www.youtube.com/embed/vco0SpSz17g"
+    },
+    {
+      "id": "3",
+      "caption": "Finding Nemo 3D Official Trailer #1 (2012) Pixar Movie HD",
+      "url": "https://lumiere-a.akamaihd.net/v1/images/p_findingnemo_19752_05271d3f.jpeg?region=0%2C0%2C540%2C810",
+      "link": "https://www.youtube.com/embed/2zLkasScy7A"
+    },
+    {
+      "id": "4",
+      "caption": "Disney's Raya and the Last Dragon | Official Trailer",
+      "url": "https://lumiere-a.akamaihd.net/v1/images/p_rayaandthelastdragon_21294_83346778.jpeg",
+      "link": "https://www.youtube.com/embed/1VIZ89FEjYI"
+    },
+    {
+      "id": "5",
+      "caption": "Disney and Pixar’s Luca | Official Trailer | Disney+",
+      "url": "https://resizing.flixster.com/Trl9kKeYzcukyshrbYNwM9vHF74=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2YwYWZjYmFmLTlkN2QtNDZmZC1hOWRlLWRiYjVhYmFmOGU3ZC5qcGc=",
+      "link": "https://www.youtube.com/embed/mYfJxlgR2jw"
+    },
+    {
+      "id": "7",
+      "caption": "THE EMOJI MOVIE - Official Trailer (HD)",
+      "url": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81KdmiQh+jL._AC_UF1000,1000_QL80_.jpg",
+      "link": "https://www.youtube.com/embed/r8pJt4dK_s4"
+    }
+  ],
+  "history": [
+    {
+      "caption": "Finding Nemo 3D Official Trailer #1 (2012) Pixar Movie HD",
+      "link": "https://www.youtube.com/embed/2zLkasScy7A",
+      "timeStamp": "01/08/2024, 06:57:49 AM",
+      "id": 1
+    },
+    {
+      "caption": "BIG HERO 6 | UK Teaser Trailer | Official Disney UK",
+      "link": "https://www.youtube.com/embed/vco0SpSz17g",
+      "timeStamp": "01/30/2024, 03:29:54 PM",
+      "id": 2
+    },
+    {
+      "caption": "Finding Nemo 3D Official Trailer #1 (2012) Pixar Movie HD",
+      "link": "https://www.youtube.com/embed/2zLkasScy7A",
+      "timeStamp": "01/30/2024, 03:30:03 PM",
+      "id": 3
+    },
+    {
+      "caption": "THE EMOJI MOVIE - Official Trailer (HD)",
+      "link": "https://www.youtube.com/embed/r8pJt4dK_s4",
+      "timeStamp": "02/03/2024, 11:39:23 AM",
+      "id": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "categoryName": "favourites",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Minions | All-New Mini-Movie (HD) | Illumination",
+          "url": "https://images.moviesanywhere.com/913f00d3cac979222c7db177dead87ae/a2df1afa-57b8-48a9-bec8-4293d0097236.jpg",
+          "link": "https://www.youtube.com/embed/PjfP2tmjtQM"
+        }
+      ]
+    },
+    {
+      "categoryName": "watchlist",
+      "allVideos": [
+        {
+          "id": "7",
+          "caption": "THE EMOJI MOVIE - Official Trailer (HD)",
+          "url": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81KdmiQh+jL._AC_UF1000,1000_QL80_.jpg",
+          "link": "https://www.youtube.com/embed/r8pJt4dK_s4"
+        },
+        {
+          "id": "3",
+          "caption": "Finding Nemo 3D Official Trailer #1 (2012) Pixar Movie HD",
+          "url": "https://lumiere-a.akamaihd.net/v1/images/p_findingnemo_19752_05271d3f.jpeg?region=0%2C0%2C540%2C810",
+          "link": "https://www.youtube.com/embed/2zLkasScy7A"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
